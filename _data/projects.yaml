@@ -1,25 +1,25 @@
 
-- title: Green ICT
-  url: http://atefehmaleki.com/GreenICT
-  image: https://www.ict-tng.kth.se/polopoly_fs/1.435193!/image/GMteaser.jpg
-  completed: true
+#- title: Green ICT
+ # url: http://atefehmaleki.com/GreenICT
+ # image: https://www.ict-tng.kth.se/polopoly_fs/1.435193!/image/GMteaser.jpg
+ # completed: true
 
 - title: SDN
   url: http://atefehmaleki.com/SDN
   image: 
   completed: true
 
-- title: Green SDN
-  url: http://atefehmaleki.com/GreenSDN
-  image: 
-  completed: true
+#- title: Green SDN
+#  url: http://atefehmaleki.com/GreenSDN
+#  image: 
+#  completed: true
 
 - title: PERCCOM
   url: http://atefehmaleki.com/PERCCOM
   image: images/perccom.jpg
   completed: true
 
-- title: My CV
-  url: http://atefehmaleki.com/CV
-  image: http://www.lifeatwefightanyclaim.com/images/headers/wfac-life-careers-cv-icon.png
-  completed: true
+#- title: My CV
+#  url: http://atefehmaleki.com/CV
+#  image: http://www.lifeatwefightanyclaim.com/images/headers/wfac-life-careers-cv-icon.png
+#  completed: true
